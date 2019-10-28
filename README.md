@@ -18,6 +18,7 @@ You can compile using the following command:
     
    `$ g++ RafaelCardoso_SO.cpp -o main -O3 `
     
+# How to Execute:    
 Then you can execute it by typing the following commands:
 
    `$ ./main 4 vsim-exemplo.txt `
